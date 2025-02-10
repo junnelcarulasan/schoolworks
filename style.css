@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    background: black;
+    text-align: center;
+    color: white
+}
+
+header nav a {
+    text-decoration: none;
+    color: skyblue;
+    padding: 20px;
+}
